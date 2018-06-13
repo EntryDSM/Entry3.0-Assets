@@ -1,2 +1,5 @@
 # raw design file
+*.ai
+*.sketch
 **/*.ai
+**/*.sketch
