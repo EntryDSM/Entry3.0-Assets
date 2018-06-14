@@ -1,4 +1,5 @@
 # raw design file
+.DS_Store
 *.ai
 *.sketch
 **/*.ai
